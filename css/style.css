@@ -421,12 +421,7 @@ iframe {
 }
 
 
-.card mb-3" {
-    max-width: 1200px
-    margin: 1px auto;
-    padding: 0 1px;
-   
-}
+
 
 
 /*SOLAPA servicio*/
@@ -434,10 +429,5 @@ iframe {
 
 /*SOLAPA contactos*/
 
-.row g-3 needs-validation {
-    max-width: 1200px
-    margin: 1px auto;
-    padding: 0 1px;
-    background-color: #c0e5ff;
 
-}
+
